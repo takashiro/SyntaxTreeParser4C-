@@ -1,0 +1,5 @@
+﻿
+*.out
+*.o
+*.layout
+Makefile.win
